@@ -3,7 +3,7 @@
 
         <!-- Background -->
         <div class="absolute inset-0">
-            <img src="@/assets/drone-hero-1.jpg" class="w-full h-full object-cover" />
+            <img src="@/assets/drone-hero-drones.jpg" class="w-full h-full object-cover" />
             <div class="absolute inset-0 bg-black/70"></div>
         </div>
 
