@@ -7,7 +7,7 @@
                 Drohnenaufnahmen in <span class="text-yellow-400">Action</span>
             </h2>
             <p class="text-neutral-400 mt-3 max-w-2xl mx-auto text-sm md:text-base">
-                Ein kurzer Einblick in meine Arbeit - präzise, professionell und aus der Luft dokumentiert.
+                In Sekunden das sichtbar machen, was Stunden dauert.
             </p>
         </div>
 
@@ -17,7 +17,7 @@
             <!-- Video -->
             <video ref="videoRef"
                 class="w-full aspect-video rounded-2xl border border-neutral-700 shadow-2xl object-cover"
-                poster="@/assets/drone-intro.jpg" @click="toggleVideo">
+                poster="@/assets/DJI-Mavic-3-Classic.jpg" @click="toggleVideo">
                 <source src="@/assets/drone-intro.mp4" type="video/mp4" />
                 Dein Browser unterstützt kein Video.
             </video>
