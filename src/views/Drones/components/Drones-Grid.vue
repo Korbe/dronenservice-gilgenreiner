@@ -34,23 +34,31 @@
     </section>
 </template>
 <script setup>
-import mavicImg from '@/assets/mavic-3-pro.webp'
+import mavicClassic from '@/assets/DJI-Mavic-3-Classic.jpg'
 
 const drones = [
     {
-        name: "DJI Mavic 3 Pro",
-        image: mavicImg,
+        name: "DJI Mavic 3 Classic",
+        image: mavicClassic,
         description:
-            "High-End Kamera-Drohne für detailreiche Luftaufnahmen und Filmprojekte mit maximaler Bildqualität.",
+            "Die DJI Mavic 3 Classic überzeugt mit einer hochwertigen Hasselblad-Kamera, die beeindruckende 5.1K-Videos und gestochen scharfe Fotos liefert. Dank langer Flugzeit und präziser Hinderniserkennung ist sie ideal für professionelle Luftaufnahmen und anspruchsvolle Projekte.",
         specs: [
             "4/3 CMOS Hasselblad Kamera",
+            "20 MP Fotoauflösung",
+            "5.1K Video mit 50 fps / 4K mit 120 fps",
+            "10-Bit D-Log und 12-Bit RAW Farbtiefe",
             "Bis zu 46 Minuten Flugzeit",
-            "Omnidirektionale Hinderniserkennung"
+            "Ca. 40 Minuten Schwebezeit",
+            "Bis zu 15 km Signalreichweite",
+            "Omnidirektionale Hinderniserkennung",
+            "ActiveTrack 5.0, MasterShots und Hyperlapse",
+            "4/3 CMOS Sensor mit ca. 12,8 Blendenstufen Dynamik",
+            "Variable Blende von f/2.8 bis f/11"
         ]
     },
     {
         name: "DJI Air 3",
-        image: mavicImg,
+        image: mavicClassic,
         description:
             "Perfekte Allround-Drohne für dynamische Aufnahmen, Immobilien und mittelgroße Projekte.",
         specs: [
@@ -61,7 +69,7 @@ const drones = [
     },
     {
         name: "DJI Mini 4 Pro",
-        image: mavicImg,
+        image: mavicClassic,
         description:
             "Ultraleichte Drohne für flexible Einsätze ohne komplizierte Genehmigungen in vielen Regionen.",
         specs: [
