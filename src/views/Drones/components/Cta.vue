@@ -2,7 +2,7 @@
   <section class="py-24 px-6 bg-neutral-950 relative overflow-hidden">
 
   <!-- subtle glow -->
-  <div class="absolute -top-20 -right-20 w-80 h-80 bg-[#a3511d]/20 blur-3xl rounded-full"></div>
+  <div class="absolute -top-20 -right-20 w-80 h-80 bg-brand-dark/20 blur-3xl rounded-full"></div>
 
   <div class="max-w-4xl mx-auto text-center relative z-10">
 
@@ -18,7 +18,7 @@
     <div class="flex flex-col sm:flex-row justify-center gap-4">
 
       <RouterLink to="/contact"
-        class="px-8 py-4 bg-[#a3511d] text-white font-bold rounded-sm hover:opacity-90 transition">
+        class="px-8 py-4 bg-brand-dark text-white font-bold rounded-sm hover:opacity-90 transition">
         Kostenlos beraten lassen
       </RouterLink>
 

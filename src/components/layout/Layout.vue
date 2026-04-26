@@ -1,5 +1,5 @@
 <template>
-    <div class="min-h-screen bg-neutral-950 text-white font-sans selection:bg-yellow-400 selection:text-black">
+    <div class="min-h-screen bg-neutral-950 text-white font-sans selection:bg-brand selection:text-black">
         <Navbar />
         <slot />
         <Footer />

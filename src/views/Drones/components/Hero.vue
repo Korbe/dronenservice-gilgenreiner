@@ -11,7 +11,7 @@
         <div class="relative z-10 text-center px-6 max-w-4xl">
             <h1 class="text-4xl md:text-6xl font-extrabold mb-6">
                 Meine Drohnenflotte
-                <span class="block text-transparent bg-clip-text bg-linear-to-r from-yellow-400 to-orange-600">
+                <span class="block text-transparent bg-clip-text bg-linear-to-r from-brand to-orange-600">
                     Technologie aus der Luft
                 </span>
             </h1>

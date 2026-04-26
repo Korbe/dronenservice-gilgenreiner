@@ -11,7 +11,7 @@
 
                 <!-- TEXT -->
                 <div :class="index % 2 ? 'md:order-1' : ''">
-                    <h2 class="text-2xl md:text-3xl font-bold text-yellow-400 mb-4">
+                    <h2 class="text-2xl md:text-3xl font-bold text-brand mb-4">
                         {{ item.title }}
                     </h2>
 

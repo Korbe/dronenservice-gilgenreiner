@@ -12,10 +12,10 @@
 
                 <!-- EMAIL -->
                 <div
-                    class="group p-6 bg-neutral-800 rounded-xl border border-neutral-700 hover:border-[#fff94f] transition">
+                    class="group p-6 bg-neutral-800 rounded-xl border border-neutral-700 hover:border-brand transition">
                     <div class="flex items-center gap-4 mb-4">
                         <div
-                            class="w-12 h-12 rounded-full bg-[#fff94f]/10 flex items-center justify-center text-[#fff94f]">
+                            class="w-12 h-12 rounded-full bg-brand/10 flex items-center justify-center text-brand">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                                 stroke="currentColor" class="w-6 h-6">
                                 <path stroke-linecap="round" stroke-linejoin="round"
@@ -30,17 +30,17 @@
                     </p>
 
                     <a href="mailto:info@gilgenreiner.at"
-                        class="text-[#fff94f] font-semibold hover:underline break-all">
+                        class="text-brand font-semibold hover:underline break-all">
                         info@gilgenreiner.at
                     </a>
                 </div>
 
                 <!-- TELEFON -->
                 <div
-                    class="group p-6 bg-neutral-800 rounded-xl border border-neutral-700 hover:border-[#fff94f] transition">
+                    class="group p-6 bg-neutral-800 rounded-xl border border-neutral-700 hover:border-brand transition">
                     <div class="flex items-center gap-4 mb-4">
                         <div
-                            class="w-12 h-12 rounded-full bg-[#fff94f]/10 flex items-center justify-center text-[#fff94f]">
+                            class="w-12 h-12 rounded-full bg-brand/10 flex items-center justify-center text-brand">
                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
                                 stroke="currentColor" class="w-6 h-6">
                                 <path stroke-linecap="round" stroke-linejoin="round"
@@ -54,7 +54,7 @@
                         Direkt anrufen für schnelle Abstimmungen oder kurzfristige Einsätze.
                     </p>
 
-                    <a href="tel:+4369010664594" class="text-[#fff94f] font-semibold hover:underline">
+                    <a href="tel:+4369010664594" class="text-brand font-semibold hover:underline">
                         +43 690 10664594
                     </a>
                 </div>
@@ -65,7 +65,7 @@
                 <p class="text-neutral-400 mb-4">
                     Ich freue mich auf Ihre Anfrage und Ihr Projekt.
                 </p>
-                <p class="text-[#a3511d] font-semibold">
+                <p class="text-brand-dark font-semibold">
                     Dominik Gilgenrainer - Dronenservice
                 </p>
             </div>

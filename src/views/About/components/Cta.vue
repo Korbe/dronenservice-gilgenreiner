@@ -2,11 +2,11 @@
     <section class="py-24 px-6 bg-neutral-950 relative overflow-hidden">
 
         <!-- Glow -->
-        <div class="absolute -top-20 -left-20 w-80 h-80 bg-yellow-400/10 blur-3xl rounded-full"></div>
+        <div class="absolute -top-20 -left-20 w-80 h-80 bg-brand/10 blur-3xl rounded-full"></div>
 
         <div class="max-w-4xl mx-auto text-center relative z-10">
 
-            <p class="text-sm tracking-widest uppercase text-yellow-400 mb-4">
+            <p class="text-sm tracking-widest uppercase text-brand mb-4">
                 Persönlicher Kontakt
             </p>
 
@@ -22,7 +22,7 @@
             <div class="flex flex-col sm:flex-row justify-center gap-4">
 
                 <RouterLink to="/contact"
-                    class="px-8 py-4 bg-yellow-400 text-black font-bold rounded-sm hover:bg-yellow-300 transition">
+                    class="px-8 py-4 bg-brand text-black font-bold rounded-sm hover:bg-yellow-300 transition">
                     Nachricht senden
                 </RouterLink>
 

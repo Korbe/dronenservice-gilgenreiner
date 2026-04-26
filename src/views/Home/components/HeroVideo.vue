@@ -4,7 +4,7 @@
         <!-- HEADLINE -->
         <div class="text-center mb-12">
             <h2 class="text-3xl md:text-4xl font-extrabold text-neutral-100">
-                Drohnenaufnahmen in <span class="text-yellow-400">Action</span>
+                Drohnenaufnahmen in <span class="text-brand">Action</span>
             </h2>
             <p class="text-neutral-400 mt-3 max-w-2xl mx-auto text-sm md:text-base">
                 In Sekunden das sichtbar machen, was Stunden dauert.
@@ -26,7 +26,7 @@
             <div v-if="!isPlaying" @click="playVideo"
                 class="absolute inset-0 flex items-center justify-center bg-black/50 rounded-2xl hover:bg-black/40 transition cursor-pointer">
                 <div
-                    class="w-24 h-24 bg-yellow-400 text-black rounded-full flex items-center justify-center shadow-xl group-hover:scale-110 transition-transform">
+                    class="w-24 h-24 bg-brand text-black rounded-full flex items-center justify-center shadow-xl group-hover:scale-110 transition-transform">
                     <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 24 24"
                         class="w-10 h-10 ml-1">
                         <path d="M8 5v14l11-7z" />

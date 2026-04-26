@@ -14,7 +14,7 @@
             <div class="w-full md:w-1/2 flex flex-col items-start gap-6 text-left">
                 <h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight tracking-tighter">
                     PROFESSIONELLE<br />
-                    <span class="text-yellow-400">DROHNENARBEITEN</span><br />
+                    <span class="text-brand">DROHNENARBEITEN</span><br />
                     FÜR IHR PROJEKT.
                 </h1>
 
@@ -27,7 +27,7 @@
                 <div class="flex flex-wrap gap-4 mt-4">
 
                     <RouterLink to="/contact"
-                        class="inline-flex items-center justify-center px-8 py-3.5 bg-yellow-400 text-black font-bold rounded-sm shadow-md hover:bg-yellow-300 transition-all transform hover:-translate-y-0.5 active:translate-y-0 text-base">
+                        class="inline-flex items-center justify-center px-8 py-3.5 bg-brand text-black font-bold rounded-sm shadow-md hover:bg-yellow-300 transition-all transform hover:-translate-y-0.5 active:translate-y-0 text-base">
                         JETZT ANFRAGEN
                     </RouterLink>
 

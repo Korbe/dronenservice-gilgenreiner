@@ -3,7 +3,7 @@
         <div class="max-w-3xl mx-auto">
 
             <h2 class="text-3xl font-bold text-center mb-12">
-                Häufig gestellte <span class="text-yellow-400">Fragen</span>
+                Häufig gestellte <span class="text-brand">Fragen</span>
             </h2>
 
             <div class="space-y-4">
@@ -17,7 +17,7 @@
                             {{ item.question }}
                         </span>
 
-                        <span class="text-[#a3511d] text-xl">
+                        <span class="text-brand-dark text-xl">
                             {{ open ? "−" : "+" }}
                         </span>
                     </DisclosureButton>

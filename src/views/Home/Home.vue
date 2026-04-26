@@ -1,8 +1,8 @@
 <template>
 
-  <ComingSoon />
+  <!-- <ComingSoon /> -->
   
-  <!-- <Layout>
+  <Layout>
 
     <Hero />
 
@@ -16,7 +16,7 @@
 
     <Faq />
 
-  </Layout> -->
+  </Layout>
 
 
 </template>

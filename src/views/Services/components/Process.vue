@@ -3,13 +3,13 @@
         <div class="max-w-5xl mx-auto text-center">
 
             <h2 class="text-3xl md:text-4xl font-bold mb-16">
-                So läuft ein <span class="text-yellow-400">Projekt</span> ab
+                So läuft ein <span class="text-brand">Projekt</span> ab
             </h2>
 
             <div class="grid md:grid-cols-4 gap-8">
 
                 <div v-for="step in steps" :key="step.title">
-                    <div class="text-yellow-400 text-2xl font-bold mb-3">
+                    <div class="text-brand text-2xl font-bold mb-3">
                         {{ step.number }}
                     </div>
                     <h3 class="font-bold mb-2">{{ step.title }}</h3>

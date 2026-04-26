@@ -12,7 +12,7 @@
 
                 <!-- TEXT -->
                 <div :class="index % 2 === 1 ? 'md:order-1' : ''">
-                    <h2 class="text-2xl md:text-3xl font-bold mb-4 text-yellow-400">
+                    <h2 class="text-2xl md:text-3xl font-bold mb-4 text-brand">
                         {{ drone.name }}
                     </h2>
 

@@ -35,7 +35,7 @@
 			</div>
 
 			<!-- Mobile -->
-			<button @click="mobileOpen = !mobileOpen" class="md:hidden p-2 text-yellow-400">
+			<button @click="mobileOpen = !mobileOpen" class="md:hidden p-2 text-brand">
 				<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
 					stroke="currentColor" class="w-7 h-7">
 					<path stroke-linecap="round" stroke-linejoin="round"
@@ -95,7 +95,7 @@ const route = useRoute()
 
 const isActive = (path) => {
 	return route.path === path
-		? 'text-yellow-400 border-b border-yellow-400 pb-1'
-		: 'text-white hover:text-yellow-400'
+		? 'text-brand border-b border-brand pb-1'
+		: 'text-white hover:text-brand'
 }
 </script>

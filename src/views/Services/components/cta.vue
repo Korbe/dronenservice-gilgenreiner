@@ -8,8 +8,8 @@
   </div>
 
   <!-- Glow -->
-  <div class="absolute -top-20 -left-20 w-72 h-72 bg-yellow-400/10 rounded-full blur-3xl"></div>
-  <div class="absolute -bottom-20 -right-20 w-72 h-72 bg-[#a3511d]/20 rounded-full blur-3xl"></div>
+  <div class="absolute -top-20 -left-20 w-72 h-72 bg-brand/10 rounded-full blur-3xl"></div>
+  <div class="absolute -bottom-20 -right-20 w-72 h-72 bg-brand-dark/20 rounded-full blur-3xl"></div>
 
   <!-- Content -->
   <div class="relative z-10 max-w-4xl mx-auto text-center">
@@ -17,7 +17,7 @@
     <!-- Headline -->
     <h2 class="text-3xl md:text-5xl font-extrabold mb-6 leading-tight">
       Bereit für beeindruckende<br />
-      <span class="text-transparent bg-clip-text bg-linear-to-r from-yellow-400 to-orange-600">
+      <span class="text-transparent bg-clip-text bg-linear-to-r from-brand to-orange-600">
         Luftaufnahmen?
       </span>
     </h2>
@@ -31,7 +31,7 @@
     <div class="flex flex-col sm:flex-row justify-center gap-4">
 
       <RouterLink to="/contact"
-        class="px-8 py-4 bg-yellow-400 text-black font-bold rounded-sm hover:bg-yellow-300 transition transform hover:-translate-y-1">
+        class="px-8 py-4 bg-brand text-black font-bold rounded-sm hover:bg-yellow-300 transition transform hover:-translate-y-1">
         Jetzt Projekt anfragen
       </RouterLink>
 

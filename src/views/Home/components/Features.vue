@@ -2,7 +2,7 @@
         <section class="py-24 px-6 container mx-auto">
 
       <div class="text-center mb-16">
-        <h2 class="text-sm font-bold tracking-widest text-yellow-400 uppercase mb-2">
+        <h2 class="text-sm font-bold tracking-widest text-brand uppercase mb-2">
           Einsatzgebiete
         </h2>
         <p class="text-3xl md:text-4xl font-extrabold">
@@ -22,7 +22,7 @@
           </div>
 
           <div class="p-6">
-            <h3 class="text-xl font-bold text-yellow-400 mb-2">Bauwirtschaft</h3>
+            <h3 class="text-xl font-bold text-brand mb-2">Bauwirtschaft</h3>
             <p class="text-neutral-400 text-sm">
               Präzise Dokumentation des Baufortschritts und Vermessungen aus der Luft.
             </p>
@@ -40,7 +40,7 @@
           </div>
 
           <div class="p-6">
-            <h3 class="text-xl font-bold text-yellow-400 mb-2">Infrastruktur</h3>
+            <h3 class="text-xl font-bold text-brand mb-2">Infrastruktur</h3>
             <p class="text-neutral-400 text-sm">
               Spezialisierte Brückenkontrolle und Inspektion schwer zugänglicher Anlagen.
             </p>
@@ -58,7 +58,7 @@
           </div>
 
           <div class="p-6">
-            <h3 class="text-xl font-bold text-yellow-400 mb-2">Landwirtschaft</h3>
+            <h3 class="text-xl font-bold text-brand mb-2">Landwirtschaft</h3>
             <p class="text-neutral-400 text-sm">
               Rehkitzrettung via Wärmebildkamera und Analyse von Pflanzengesundheit.
             </p>
@@ -76,7 +76,7 @@
           </div>
 
           <div class="p-6">
-            <h3 class="text-xl font-bold text-yellow-400 mb-2">Immobilien</h3>
+            <h3 class="text-xl font-bold text-brand mb-2">Immobilien</h3>
             <p class="text-neutral-400 text-sm">
               High-End Luftaufnahmen für Vermarktung und spektakuläre Perspektiven.
             </p>

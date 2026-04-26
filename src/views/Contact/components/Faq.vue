@@ -4,7 +4,7 @@
 
         <!-- Heading -->
         <h2 class="text-3xl md:text-4xl font-bold text-center mb-12">
-          Häufig gestellte <span class="text-[#fff94f]">Fragen</span>
+          Häufig gestellte <span class="text-brand">Fragen</span>
         </h2>
 
         <!-- FAQ Items -->
@@ -20,7 +20,7 @@
                 </span>
 
                 <!-- Icon -->
-                <span class="text-[#a3511d] text-2xl transform transition-transform duration-300"
+                <span class="text-brand-dark text-2xl transform transition-transform duration-300"
                   :class="open ? 'rotate-45' : ''">
                   +
                 </span>

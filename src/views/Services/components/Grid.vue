@@ -4,7 +4,7 @@
 
             <div class="text-center mb-16">
                 <h2 class="text-3xl md:text-4xl font-bold">
-                    Meine <span class="text-yellow-400">Leistungen</span>
+                    Meine <span class="text-brand">Leistungen</span>
                 </h2>
                 <p class="text-neutral-400 mt-4 max-w-2xl mx-auto">
                     Professionelle Drohneneinsätze für verschiedenste Branchen.
@@ -16,7 +16,7 @@
                 <div v-for="service in services" :key="service.title"
                     class="border border-neutral-800 p-6 rounded-xl hover:bg-neutral-900 transition">
 
-                    <h3 class="text-xl font-bold mb-3 text-yellow-400">
+                    <h3 class="text-xl font-bold mb-3 text-brand">
                         {{ service.title }}
                     </h3>
 

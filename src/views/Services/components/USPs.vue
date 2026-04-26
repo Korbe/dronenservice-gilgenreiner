@@ -5,7 +5,7 @@
             <!-- Headline -->
             <div class="text-center mb-16">
                 <h2 class="text-3xl md:text-4xl font-extrabold">
-                    Warum <span class="text-yellow-400">mit mir arbeiten?</span>
+                    Warum <span class="text-brand">mit mir arbeiten?</span>
                 </h2>
                 <p class="text-neutral-400 mt-4 max-w-2xl mx-auto">
                     Qualität, Sicherheit und persönliche Betreuung stehen bei jedem Projekt im Mittelpunkt.
@@ -19,8 +19,8 @@
                     class="border border-neutral-800 rounded-xl p-6 hover:bg-neutral-900 transition">
 
                     <!-- Icon Circle -->
-                    <div class="w-12 h-12 mb-4 rounded-full bg-yellow-400/10 flex items-center justify-center">
-                        <div class="w-5 h-5 bg-yellow-400 rounded-full"></div>
+                    <div class="w-12 h-12 mb-4 rounded-full bg-brand/10 flex items-center justify-center">
+                        <div class="w-5 h-5 bg-brand rounded-full"></div>
                     </div>
 
                     <!-- Title -->

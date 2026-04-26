@@ -19,14 +19,14 @@
             <div class="max-w-2xl">
 
                 <!-- Label -->
-                <p class="text-sm tracking-widest uppercase text-[#fff94f] mb-4">
+                <p class="text-sm tracking-widest uppercase text-brand mb-4">
                     Über mich
                 </p>
 
                 <!-- Name -->
                 <h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight mb-6">
                     Dominik<br />
-                    <span class="text-[#fff94f]">Gilgenreiner</span>
+                    <span class="text-brand">Gilgenreiner</span>
                 </h1>
 
                 <!-- Beschreibung -->
@@ -51,7 +51,7 @@
 
         <!-- Soft Glow -->
         <div
-            class="absolute -right-25 top-1/2 -translate-y-1/2 w-100 h-100 bg-[#a3511d]/20 blur-3xl rounded-full opacity-30">
+            class="absolute -right-25 top-1/2 -translate-y-1/2 w-100 h-100 bg-brand-dark/20 blur-3xl rounded-full opacity-30">
         </div>
 
         <!-- Bottom Fade -->
