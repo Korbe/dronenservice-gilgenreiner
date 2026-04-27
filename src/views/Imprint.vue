@@ -32,8 +32,5 @@
     </Layout>
 </template>
 <script setup>
-import Footer from '../components/layout/Footer.vue';
 import Layout from '../components/layout/Layout.vue';
-import Navbar from '../components/layout/Navbar.vue';
-
 </script>
