@@ -33,7 +33,7 @@
                         <div>
                             <h4 class="font-bold text-lg mb-1">Durchführung</h4>
                             <p class="text-sm text-neutral-400">Präziser Flug mit modernster Technik durch Dominik
-                                Gilgenrainer.</p>
+                                Gilgenreiner.</p>
                         </div>
                     </div>
                     <div class="flex gap-4">

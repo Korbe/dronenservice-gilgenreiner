@@ -21,7 +21,7 @@
                 <p class="text-lg md:text-xl text-neutral-300 max-w-lg">
                     Baufortschrittsdokumentation, Brückenkontrolle, Vermessung & Inspektion. Präzise, Effizient &
                     Sicher. Von
-                    Gilgenrainer Dominik.
+                    Gilgenreiner Dominik.
                 </p>
 
                 <div class="flex flex-wrap gap-4 mt-4">

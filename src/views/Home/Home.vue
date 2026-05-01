@@ -1,7 +1,7 @@
 <template>
 
   <!-- <ComingSoon /> -->
-  
+
   <Layout>
 
     <Hero />

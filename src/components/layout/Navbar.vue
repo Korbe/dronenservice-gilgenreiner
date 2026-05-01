@@ -5,7 +5,7 @@
 			<!-- Logo -->
 			<div class="flex items-center gap-2">
 				<RouterLink to="/" class="flex items-center gap-2">
-					<img src="@/assets/logo.png" alt="Dronenservice Gilgenrainer Logo" class="h-28 w-auto" />
+					<img src="@/assets/logo.png" alt="Dronenservice Gilgenreiner Logo" class="h-28 w-auto" />
 				</RouterLink>
 			</div>
 

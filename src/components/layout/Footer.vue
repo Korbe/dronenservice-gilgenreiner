@@ -3,7 +3,7 @@
 
         <div class="flex justify-center pb-5">
             <RouterLink to="/" class="flex items-center gap-2">
-                <img src="@/assets/logo.png" alt="Dronenservice Gilgenrainer Logo" class="h-28 w-auto" />
+                <img src="@/assets/logo.png" alt="Dronenservice Gilgenreiner Logo" class="h-28 w-auto" />
             </RouterLink>
         </div>
 
@@ -12,7 +12,7 @@
         <Credit />
 
         <div class="container mx-auto px-6">
-            <p>&copy; {{ currentYear }} Dronenservice Gilgenrainer. Alle Rechte vorbehalten.</p>
+            <p>&copy; {{ currentYear }} Dronenservice Gilgenreiner. Alle Rechte vorbehalten.</p>
 
             <div class="mt-2 flex justify-center gap-4">
                 <router-link to="/impressum" class="hover:text-neutral-300">
