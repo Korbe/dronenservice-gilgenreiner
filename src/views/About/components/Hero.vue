@@ -7,10 +7,9 @@
                 class="w-full h-full object-cover object-[center_top] scale-105" />
 
             <!-- Dark Overlay -->
-            <div class="absolute inset-0 bg-black/85"></div>
+            <div class="absolute inset-0 bg-black/60"></div>
 
-            <!-- Farbverlauf für bessere Lesbarkeit -->
-            <div class="absolute inset-0 bg-linear-to-r from-black via-black/80 to-transparent"></div>
+            <div class="absolute inset-0 bg-linear-to-r from-black/70 via-black/50 to-transparent"></div>
         </div>
 
         <!-- Content -->

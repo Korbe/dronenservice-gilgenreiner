@@ -22,7 +22,7 @@
                     <!-- Overlay -->
                     <div
                         class="absolute bottom-6 left-6 bg-black/70 backdrop-blur-md px-5 py-3 rounded-xl border border-neutral-700">
-                        <p class="text-sm text-brand font-semibold">Dronenservice</p>
+                        <p class="text-sm text-brand font-semibold">Drohnenservice</p>
                         <p class="text-xs text-neutral-400">Dominik Gilgenreiner</p>
                     </div>
 

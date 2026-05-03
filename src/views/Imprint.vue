@@ -36,7 +36,7 @@
 
                     <div class="text-neutral-300 leading-relaxed space-y-1">
                         <p class="font-medium text-white">
-                            Dronenservice Gilgenreiner
+                            Drohnenservice Gilgenreiner
                         </p>
                         <p>Dominik Gilgenreiner</p>
                         <p>Kärntnerstraße 55</p>

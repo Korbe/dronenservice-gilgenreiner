@@ -6,6 +6,7 @@ const routes = [
   { path: '/', name: 'Home', component: () => import('../views/home/Home.vue') },
   { path: '/about', name: 'About', component: () => import('../views/about/About.vue') },
   { path: '/services', name: 'Services', component: () => import('../views/services/Services.vue') },
+  { path: '/projects', name: 'Projects', component: () => import('../views/Projects/Projects.vue') },
   { path: '/drones', name: 'Drones', component: () => import('../views/drones/Drones.vue') },
   { path: '/contact', name: 'Contact', component: () => import('../views/contact/Contact.vue') },
   { path: '/impressum', name: 'Imprint', component: () => import('../views/Imprint.vue') },

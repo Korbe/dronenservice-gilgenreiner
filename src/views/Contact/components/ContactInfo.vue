@@ -66,7 +66,7 @@
                     Ich freue mich auf Ihre Anfrage und Ihr Projekt.
                 </p>
                 <p class="text-brand-dark font-semibold">
-                    Dominik Gilgenreiner - Dronenservice
+                    Dominik Gilgenreiner - Drohnenservice
                 </p>
             </div>
 

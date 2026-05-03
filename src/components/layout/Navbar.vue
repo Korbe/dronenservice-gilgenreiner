@@ -5,7 +5,7 @@
 			<!-- Logo -->
 			<div class="flex items-center gap-2">
 				<RouterLink to="/" class="flex items-center gap-2">
-					<img src="@/assets/logo.png" alt="Dronenservice Gilgenreiner Logo" class="h-28 w-auto" />
+					<img src="@/assets/logo-short.png" alt="Drohnenservice Gilgenreiner Logo" class="h-28 w-auto" />
 				</RouterLink>
 			</div>
 
@@ -22,6 +22,10 @@
 
 				<RouterLink to="/drones" :class="isActive('/drones')">
 					DROHNEN
+				</RouterLink>
+
+				<RouterLink to="/projects" :class="isActive('/projects')">
+					PROJEKTE
 				</RouterLink>
 
 				<RouterLink to="/about" :class="isActive('/about')">

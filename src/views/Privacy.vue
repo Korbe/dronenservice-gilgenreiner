@@ -34,7 +34,7 @@
                     </h2>
 
                     <div class="text-neutral-300 leading-relaxed space-y-2">
-                        <p class="font-medium text-white">Dronenservice Gilgenreiner</p>
+                        <p class="font-medium text-white">Drohnenservice Gilgenreiner</p>
                         <p>📧 info@gilgenreiner.at</p>
                         <p>📞 +43 690 10664594</p>
                     </div>
