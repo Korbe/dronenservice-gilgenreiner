@@ -1,12 +1,26 @@
 <template>
 
     <section class="py-24 px-6 container mx-auto">
-        <!-- GRID -->
-        <div class="flex flex-wrap justify-center gap-8">
+
+        <!-- FALL: KEINE PROJEKTE -->
+        <div v-if="projects.length === 0" class="text-center py-24">
+
+            <h2 class="text-2xl md:text-3xl font-bold text-neutral-200 mb-4">
+                Momentan sind keine Projekte verfügbar
+            </h2>
+
+            <p class="text-neutral-400 max-w-md mx-auto">
+                Schauen Sie bald wieder vorbei – neue Projekte werden laufend hinzugefügt.
+            </p>
+
+        </div>
+
+        <!-- FALL: PROJEKTE VORHANDEN -->
+        <div v-else class="flex flex-wrap justify-center gap-8">
 
             <div v-for="(project, index) in projects" :key="index" class="w-full sm:w-[48%] lg:w-[23%] max-w-sm group">
 
-                <!-- IMAGE GRID (2x2) -->
+                <!-- IMAGE GRID -->
                 <div class="grid grid-cols-2 gap-1 rounded-xl overflow-hidden border border-neutral-800 bg-neutral-900">
 
                     <div v-for="(img, i) in project.images" :key="i"
@@ -77,17 +91,17 @@ import service2 from '@/assets/service-2.jpg';
 import service3 from '@/assets/service-3.jpg';
 
 const projects = [
-    {
-        title: "Brückeninspektion A9",
-        location: "Graz, Österreich",
-        description: "Inspektion einer Autobahnbrücke mittels hochauflösender Drohnenaufnahmen.",
-        images: [
-            droneAbout,
-            service1,
-            service2,
-            service3
-        ]
-    },
+    // {
+    //     title: "Brückeninspektion A9",
+    //     location: "Graz, Österreich",
+    //     description: "Inspektion einer Autobahnbrücke mittels hochauflösender Drohnenaufnahmen.",
+    //     images: [
+    //         droneAbout,
+    //         service1,
+    //         service2,
+    //         service3
+    //     ]
+    // },
 ]
 
 import { ref, onMounted, onUnmounted } from 'vue'
