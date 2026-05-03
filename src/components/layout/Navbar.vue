@@ -73,6 +73,11 @@
 						DROHNEN
 					</RouterLink>
 
+					<RouterLink @click="mobileOpen = false" to="/projects" :class="isActive('/projects')"
+						class="py-3 border-b border-neutral-800">
+						PROJEKTE
+					</RouterLink>
+
 					<RouterLink @click="mobileOpen = false" to="/about" :class="isActive('/about')"
 						class="py-3 border-b border-neutral-800">
 						ÜBER MICH
