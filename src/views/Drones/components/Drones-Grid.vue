@@ -35,6 +35,7 @@
 </template>
 <script setup>
 import mavicClassic from '@/assets/DJI-Mavic-3-Classic.jpg'
+import matrice4TD from '@/assets/DJI-matrice-4-TD.jpeg'
 
 const drones = [
     {
@@ -57,27 +58,17 @@ const drones = [
         ]
     },
     {
-        name: "DJI Air 3",
-        image: mavicClassic,
+        name: "DJI matrice 4 TD",
+        image: matrice4TD,
         description:
             "Perfekte Allround-Drohne für dynamische Aufnahmen, Immobilien und mittelgroße Projekte.",
         specs: [
-            "Dual-Kamera System",
-            "4K HDR Video",
-            "Stabile Flugperformance bei Wind"
+            "Bis zu ~50 Minuten - lange Einsätze ohne ständig wechseln zu müssen.",
+            "Mehrfachkamera mit Zoom + Weitwinkel + Wärmebild (Thermal) → ideal für Kontrolle, Suche, Bauüberwachung.",
+            "Bis zu ~15 km Übertragung (je nach Umgebung) - stabile Verbindung auch auf Distanz.",
+            "Gebaut für Industrie, Bau, Einsatzkräfte - robust, präzise und zuverlässig."
         ]
     },
-    {
-        name: "DJI Mini 4 Pro",
-        image: mavicClassic,
-        description:
-            "Ultraleichte Drohne für flexible Einsätze ohne komplizierte Genehmigungen in vielen Regionen.",
-        specs: [
-            "Unter 250g Gewicht",
-            "4K HDR Video",
-            "Sehr leise im Flug"
-        ]
-    }
 ]
 
 </script>
