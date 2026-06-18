@@ -1,7 +1,5 @@
 <template>
 
-  <!-- <ComingSoon /> -->
-
   <Layout>
 
     <Hero />
@@ -31,5 +29,4 @@ import Features from './components/Features.vue'
 import Steps from './components/Steps.vue'
 import Faq from './components/Faq.vue'
 import Safety from './components/Safety.vue'
-import ComingSoon from './components/ComingSoon.vue'
 </script>
