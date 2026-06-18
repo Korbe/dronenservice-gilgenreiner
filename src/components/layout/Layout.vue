@@ -3,10 +3,12 @@
         <Navbar />
         <slot />
         <Footer />
+        <Cookiebanner />
     </div>
 </template>
 <script setup>
 import Footer from './Footer.vue';
 import Navbar from './Navbar.vue';
+import Cookiebanner from '../Cookiebanner.vue';
 
 </script>
