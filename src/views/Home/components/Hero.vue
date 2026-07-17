@@ -2,14 +2,23 @@
     <section class="relative min-h-screen flex items-center pt-24 pb-16 overflow-hidden">
 
         <div class="absolute inset-0 z-0">
-            <img src="@/assets/drone-hero.webp" alt="Professional drone"
-                class="w-full h-full object-cover object-center" />
+
+            <figure>
+                <img src="@/assets/drone-hero.webp" alt="Professional drone"
+                    class="w-full h-full object-cover object-center" />
+                <figcaption>
+                    KI-generiertes Bild.
+                </figcaption>
+            </figure>
+
+
             <div class="absolute inset-0 bg-linear-to-r from-black/90 via-black/70 to-black/30"></div>
             <div class="absolute inset-0 bg-linear-to-t from-neutral-950 via-transparent to-transparent opacity-80">
             </div>
         </div>
 
-        <div class="container mt-20 md:mt-0 mx-auto px-6 relative z-10 flex flex-col md:flex-row items-center justify-between gap-12">
+        <div
+            class="container mt-20 md:mt-0 mx-auto px-6 relative z-10 flex flex-col md:flex-row items-center justify-between gap-12">
 
             <div class="w-full md:w-1/2 flex flex-col items-start gap-6 text-left">
                 <h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold leading-tight tracking-tighter">
