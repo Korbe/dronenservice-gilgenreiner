@@ -54,8 +54,8 @@
                         Direkt anrufen für schnelle Abstimmungen oder kurzfristige Einsätze.
                     </p>
 
-                    <a href="tel:+4369010664594" class="text-brand font-semibold hover:underline">
-                        +43 690 10664594
+                    <a href="tel:+4306506699311" class="text-brand font-semibold hover:underline">
+                        +43 0650 6699311 
                     </a>
                 </div>
 
