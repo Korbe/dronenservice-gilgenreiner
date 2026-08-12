@@ -35,7 +35,6 @@
 </template>
 <script setup>
 import mavicClassic from '@/assets/DJI-Mavic-3-Classic.jpg'
-import matrice4TD from '@/assets/DJI-matrice-4-TD.jpeg'
 
 const drones = [
     {
@@ -55,18 +54,6 @@ const drones = [
             "ActiveTrack 5.0, MasterShots und Hyperlapse",
             "4/3 CMOS Sensor mit ca. 12,8 Blendenstufen Dynamik",
             "Variable Blende von f/2.8 bis f/11"
-        ]
-    },
-    {
-        name: "DJI matrice 4 TD",
-        image: matrice4TD,
-        description:
-            "Perfekte Allround-Drohne für dynamische Aufnahmen, Immobilien und mittelgroße Projekte.",
-        specs: [
-            "Bis zu ~50 Minuten - lange Einsätze ohne ständig wechseln zu müssen.",
-            "Mehrfachkamera mit Zoom + Weitwinkel + Wärmebild (Thermal) → ideal für Kontrolle, Suche, Bauüberwachung.",
-            "Bis zu ~15 km Übertragung (je nach Umgebung) - stabile Verbindung auch auf Distanz.",
-            "Gebaut für Industrie, Bau, Einsatzkräfte - robust, präzise und zuverlässig."
         ]
     },
 ]
