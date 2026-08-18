@@ -55,7 +55,7 @@
                     </h2>
 
                     <div class="text-neutral-300 leading-relaxed space-y-2">
-                        <p>📞 +43 123 456789</p>
+                        <p>📞 +43 0650 6699311</p>
                         <p>📧 info@gilgenreiner.at</p>
                     </div>
 
